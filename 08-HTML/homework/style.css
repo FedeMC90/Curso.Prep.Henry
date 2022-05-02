@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://images-ti-vm1.tiendainglesa.com.uy/medium/P041122-1.jpg?20170830115429,Milanesa-de-Carne-con-Pure-en-Tienda-Inglesa");
+    text-align: center;
+}
+h1 {
+    color: red;
+}
+img {
+    width: 400px;
+    height: 275px;
+}
+#thirdDiv {
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: 500px;
+    background-color: darkgoldenrod;
+    padding: 50px;
+    border: 20px;
+    border-color: brown;
+    border-style: groove;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+div {
+    text-align: center;
+}
